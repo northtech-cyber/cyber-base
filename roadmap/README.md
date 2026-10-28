@@ -74,7 +74,7 @@ Estes conhecimentos **não fazem parte** do percurso inicial obrigatório. Acres
 
 | Área | Exemplos |
 |---|---|
-| **Blue Team / SOC avançado** | Splunk e Microsoft Sentinel avançados, Microsoft Defender, EDR/XDR, Threat Hunting, Threat Intelligence, Malware Analysis. Ver o [**Cyber SOC**](https://github.com/northtech-cyber/cyber-soc) (Nível 2) |
+| **Blue Team / SOC avançado** | Splunk e Microsoft Sentinel avançados, Microsoft Defender, EDR/XDR, Threat Hunting, Threat Intelligence, Malware Analysis. Aprofundado no **Nível 2** (em breve) |
 | **Offensive Security / Pentesting** | Kali Linux avançado, Burp Suite, Metasploit, segurança de aplicações web, OWASP Top 10, exploração de vulnerabilidades, escalada de privilégios |
 | **Cloud Security** | Azure, AWS e Google Cloud Security, IAM, Cloud Monitoring |
 | **Identity & Access Management** | Active Directory, Microsoft Entra ID, IAM, Privileged Access Management |
