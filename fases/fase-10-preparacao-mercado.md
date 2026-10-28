@@ -60,4 +60,4 @@ Apresenta o mini-projeto ao mentor na sessão de domingo, em **5 a 10 minutos**:
 
 ---
 
-🎓 Terminaste o percurso base. O próximo nível é o [**Cyber SOC**](https://github.com/northtech-cyber/cyber-soc).
+🎓 Terminaste o percurso base. O próximo passo é o **Nível 2**, que o mentor vai abrir em breve.
