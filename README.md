@@ -62,7 +62,7 @@ Detalhe completo, com competências e ferramentas, no [roadmap](roadmap/README.m
 - CV e LinkedIn preparados para funções SOC, e uma simulação de entrevista feita
 - Preparação para a certificação de entrada (ISC2 CC ou CompTIA Security+)
 
-Depois disto, o próximo nível é o [**Cyber SOC**](https://github.com/northtech-cyber/cyber-soc) (Nível 2).
+Depois disto, segue-se o **Nível 2** (em breve).
 
 ---
 
