@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Dúvidas e discussão
+    url: https://github.com/northtech-cyber/cyber-base/discussions
+    about: Para perguntas sobre as fases ou sobre cibersegurança em geral, usa as Discussions.
