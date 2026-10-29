@@ -76,6 +76,14 @@ Quando o mentor aprovar, clica em **Merge pull request**. O mini-projeto passa p
 
 ---
 
+## 💬 Responder às perguntas da semana
+
+De terça a quinta, o mentor publica exercícios e perguntas na [issue da fase](https://github.com/northtech-cyber/cyber-base/issues). Respondes com um **comentário na própria issue**, logo por baixo das perguntas, indicando o número de cada uma (ex.: `P1: ...`). O mentor dá-te feedback aí mesmo.
+
+Se uma resposta for longa (com comandos, saídas ou screenshots), guarda-a em `notas/fase-XX.md` no teu `cyber-journey` e deixa o link no comentário. Assim também fica no teu portfólio.
+
+---
+
 ## Projetos de portefólio
 
 As Fases 8 e 9 têm os dois **projetos principais** do portfólio. Entregam-se da mesma forma, mas na pasta `projetos/`:
